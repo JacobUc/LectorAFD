@@ -1,9 +1,7 @@
 package practicaafd;
 
 
-/**
- * @author yo
- */
+
 public class Transicion {
     
     private String estadoOrigen;
